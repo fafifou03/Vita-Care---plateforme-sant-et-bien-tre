@@ -7,7 +7,7 @@ Projet ING2 — Web dynamique 2026 — ECE Paris.
  
 ## 👥 Équipe
  
-| Membre | Rôle principal |
+| Membre | Rôle principal - rendu 1|
 |--------|---------------|
 | Zaki | Base de données & backend |
 | Joshua | Frontend & wireframes |
