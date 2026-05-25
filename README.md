@@ -18,7 +18,7 @@ Projet ING2 — Web dynamique 2026 — ECE Paris.
  
 ## 🛠️ Stack technique
  
-- **Frontend** : React + CSS
+- **Frontend** : React + CSS + javascript
 - **Backend** : PHP
 - **Base de données** : MySQL
 ---
